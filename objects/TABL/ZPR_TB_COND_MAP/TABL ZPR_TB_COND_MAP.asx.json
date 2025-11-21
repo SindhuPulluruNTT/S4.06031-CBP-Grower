@@ -23,8 +23,8 @@
     "AS4DATE":"0000-00-00",
     "AS4TIME":"00:00:00",
     "MASTERLANG":"E",
-    "MAINFLAG":"",
-    "CONTFLAG":"A",
+    "MAINFLAG":"X",
+    "CONTFLAG":"C",
     "RESERVETAB":"",
     "GLOBALFLAG":"",
     "PROZPUFF":0,
@@ -87,7 +87,7 @@
     "POSITION":3,
     "KEYFLAG":"X",
     "MANDATORY":"",
-    "ROLLNAME":"",
+    "ROLLNAME":"ZPR_DT_CHAR08",
     "CHECKTABLE":"",
     "ADMINFIELD":"0",
     "INTTYPE":"C",
@@ -100,11 +100,11 @@
     "DATATYPE":"CHAR",
     "LENG":8,
     "DECIMALS":0,
-    "DOMNAME":"",
+    "DOMNAME":"ZPR_DM_CHAR08",
     "SHLPORIGIN":"",
     "TABLETYPE":"",
     "DEPTH":0,
-    "COMPTYPE":"",
+    "COMPTYPE":"E",
     "REFTYPE":"",
     "LANGUFLAG":"",
     "DBPOSITION":0,
@@ -184,13 +184,6 @@
   "table":"DD03T",
   "data":
   [
-   {
-    "TABNAME":"ZPR_TB_COND_MAP",
-    "DDLANGUAGE":"E",
-    "AS4LOCAL":"N",
-    "FIELDNAME":"CHAR_NAME",
-    "DDTEXT":""
-   },
    {
     "TABNAME":"ZPR_TB_COND_MAP",
     "DDLANGUAGE":"E",
