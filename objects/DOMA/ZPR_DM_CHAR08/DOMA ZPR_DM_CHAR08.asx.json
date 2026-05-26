@@ -62,7 +62,7 @@
     "SRCSYSTEM":"...",
     "AUTHOR":"SAP_CUSTOMER",
     "SRCDEP":"",
-    "DEVCLASS":"Z_PRODUCE",
+    "DEVCLASS":"Z_PRODUCE_EXT",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" L",
